@@ -56,7 +56,7 @@ How the GUI Works
 4.	The result is displayed as "Original" or "Counterfeit".
 The GUI makes it easy for users to verify QR codes without needing to run complex scripts.
 ________________________________________
-# Conclusion & Future Improvements
+# Conclusion 
 Conclusion
 •	The SVM model achieved 100% accuracy, but it may be overfitting.
 •	The CNN model achieved 93% accuracy and showed better generalization.
@@ -69,5 +69,4 @@ Dataset Size	200 QR Codes
 SVM Accuracy	100% (Possible Overfitting)
 CNN Accuracy	93% (Better Generalization)
 User Interface	Tkinter GUI for easy testing
-Next Steps	Improve dataset, optimize CNN, add real-time scanning
 
